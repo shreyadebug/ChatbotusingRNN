@@ -1,15 +1,16 @@
 # ChatbotusingRNN
-## Session 0:
+## Week 1:
 - Basics of Machine Learning
-## Session 1:
+## Week 2:
 - File Handling
 - PDF Handling
 - Regular Expressions
-## Session 2:
-- NLP Basics
-## Session 3:
+## Week 3: NLP Basics
+- [NLP Theory](https://www.deeplearning.ai/resources/natural-language-processing/)
+- [NLTK tutorial](https://realpython.com/nltk-nlp-python/)
+- [Spacy tutorial](https://realpython.com/natural-language-processing-spacy-python/)
+## Week 4:
 - intersection between NLP and ML
-
-## Session 4:
+## Week 5:
 - Sentiment Analysis on Movie reviews
 
